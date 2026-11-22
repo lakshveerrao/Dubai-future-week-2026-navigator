@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Future Week Navigator: Indoor Wayfinding on Low-Cost ESP32-S3 Handhelds Using Route-Constrained Dead Reckoning, Home-Zone Resets and Wi-Fi Geolocation"
+type: article
+authors:
+  - family-names: Rao
+    given-names: Lakshveer
+    affiliation: Independent Researcher
+date-released: 2026-11-22
+license: CC-BY-4.0
+repository-code: "https://github.com/lakshveerrao/Dubai-future-week-2026-navigator"
+keywords:
+  - indoor navigation
+  - wayfinding
+  - pedestrian dead reckoning
+  - ESP32-S3
+  - Wi-Fi geolocation
