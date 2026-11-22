@@ -1,5 +1,9 @@
 # Future Week Navigator
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24437857.svg)](https://doi.org/10.5281/zenodo.24437857)
+
+📄 **Read the paper on Zenodo:** https://zenodo.org/records/24437857
+
 A small handheld device that guides visitors around big indoor events like **Dubai Future Week**, with no GPS, no phone and no app. Tap where you want to go, follow the 3D map and arrow, and it says **"You've arrived!"**
 
 ![Pilot run at Dubai Future Week](media/fig3-pilot-run.jpg)
@@ -25,7 +29,11 @@ A small handheld device that guides visitors around big indoor events like **Dub
 
 ## Paper
 
-Lakshveer Rao, *Future Week Navigator: Indoor Wayfinding on Low-Cost ESP32-S3 Handhelds Using Route-Constrained Dead Reckoning, Home-Zone Resets and Wi-Fi Geolocation*, November 2026.
+Lakshveer Rao, *Future Week Navigator: Indoor Wayfinding on Low-Cost ESP32-S3 Handhelds Using Route-Constrained Dead Reckoning, Home-Zone Resets and Wi-Fi Geolocation*, November 2026. Zenodo. https://doi.org/10.5281/zenodo.24437857
+
+- **Zenodo record:** https://zenodo.org/records/24437857
+- **DOI:** [10.5281/zenodo.24437857](https://doi.org/10.5281/zenodo.24437857)
+- **PDF in this repo:** [`paper/Future_Week_Navigator_Lakshveer_Rao.pdf`](paper/Future_Week_Navigator_Lakshveer_Rao.pdf)
 
 ## Acknowledgements
 
